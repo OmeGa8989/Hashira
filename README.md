@@ -224,5 +224,3 @@ java PolynomialFromRoots
 * Handling large numbers with `BigInteger`.
 
 ---
-
-Would you like me to also **add example Java output** for the second test case (first few coefficients, since they’re huge), so the README looks more complete for GitHub?
