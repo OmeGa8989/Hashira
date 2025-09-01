@@ -1,7 +1,3 @@
-Here’s a clean **GitHub-ready README.md** you can use for your project 👇
-
----
-
 # Polynomial Coefficients from Roots
 
 This project demonstrates how to parse JSON input, extract numbers in different bases, convert them to decimal, select a subset of roots, and construct a polynomial by expanding the factors $(x - r_i)$. The resulting coefficients are then computed and displayed.
